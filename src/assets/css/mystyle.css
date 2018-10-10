@@ -1,0 +1,58 @@
+
+.myOrderedList
+{
+    list-style-type: disc;
+    text-align: left;
+
+    color:white;
+}
+.mylist
+{
+    list-style-type: disc;
+    text-align: left;
+    margin-left:10px;
+    color:white;
+}
+
+.mylist:hover
+{
+    list-style-type: disc;
+    text-align: left;
+    margin-left:10px;
+    color:lightgrey
+}
+
+.myOrderedListNone
+{
+    list-style-type: none;
+    text-align: left;
+    margin:3px;
+    color:white;
+}
+
+.imageBorder
+{
+    border:none;
+    margin:3px;
+}
+
+
+.bg-primaryALternate {
+    background-color: #9DA0A3!important;
+    border-top: 2px solid white !important;
+}
+
+.portfolio
+{
+    border-top: 2px solid white !important;
+}
+
+.calendarRow
+{
+    padding-bottom:10px;
+}
+
+.caledarData
+{
+    text-align: left;
+}
